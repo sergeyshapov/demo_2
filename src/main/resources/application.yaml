@@ -1,0 +1,4 @@
+app:
+  api:
+    name: document1
+    version: v1.0
